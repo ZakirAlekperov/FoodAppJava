@@ -1,4 +1,4 @@
-package com.zakiralekperov.foodappjava.activity;
+package com.zakiralekperov.foodappjava.code.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
